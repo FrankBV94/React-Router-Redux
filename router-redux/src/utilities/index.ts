@@ -1,1 +1,2 @@
-export { default as RoutesWithNotFound } from './routes-with-not-found';
+export * from './LocalStorage.utility';
+export { default as RoutesWithNotFound } from './RoutesWithNotound.utility';
